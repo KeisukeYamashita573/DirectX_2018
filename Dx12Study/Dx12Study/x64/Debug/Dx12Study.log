@@ -1,0 +1,70 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\DataFiles\DirectX_2018\Dx12Study\x64\Debug\pera.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(51,11-28): warning X3206: 'mul': implicit truncation of vector type
+  compilation object save succeeded; see D:\DataFiles\DirectX_2018\Dx12Study\x64\Debug\Shader.cso
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(51,2-28): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(63,16-19): warning X3081: comma expression used where a vector constructor may have been intended
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(63,16-23): warning X3081: comma expression used where a vector constructor may have been intended
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(64,15-25): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(69,8-41): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(76,9-30): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(85,43-91): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Shader.hlsl(85,19-161): warning X3206: implicit truncation of vector type
+  
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\DataFiles\DirectX_2018\Dx12Study\x64\Debug\Primitive.cso
+  Application.cpp
+  Dx12BufferBase.cpp
+  Dx12BufferManager.cpp
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12BufferManager.cpp(29,21): warning C4244: '=': 'const unsigned __int64' から 'UINT' への変換です。データが失われる可能性があります。
+  Dx12ConstantBuffer.cpp
+  Dx12Initer.cpp
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(27,5): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(35,9): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(161,35): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(168,54): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(490,32): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(519,32): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(744,35): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(745,48): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(746,41): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(754,120): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(780,35): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(781,48): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(782,41): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(790,117): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(893,124): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1023,32): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1103,35): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1104,48): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1105,41): warning C4267: '=': 'size_t' から 'UINT16' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1191,32): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1290,29): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1395,48): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1403,45): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1419,29): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1502,121): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1508,12): warning C4244: '初期化中': 'unsigned int' から 'float' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1509,12): warning C4244: '初期化中': 'unsigned int' から 'float' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1529,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1568,53): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1569,54): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1778,120): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1778,115): warning C4244: '引数': 'float' から 'UINT8' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\Dx12Initer.cpp(1794,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Dx12TextureBuffer.cpp
+  Dx12ViewSet.cpp
+  FBXModel.cpp
+  main.cpp
+  PMDModel.cpp
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\PMDModel.cpp(74,20): warning C4244: '引数': 'const float' から 'size_t' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\PMDModel.cpp(75,36): warning C4244: '引数': 'const float' から 'size_t' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\PMDModel.cpp(88,16): warning C4244: '引数': 'const float' から 'size_t' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\PMDModel.cpp(46,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\PMDModel.cpp(188,12): warning C4244: '引数': 'const float' から 'long' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX_2018\Dx12Study\Dx12Study\PMDModel.cpp(186,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  コードを生成中...
+  Dx12Study.vcxproj -> D:\DataFiles\DirectX_2018\Dx12Study\x64\Debug\Dx12Study.exe
